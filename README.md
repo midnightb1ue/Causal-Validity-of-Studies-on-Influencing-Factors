@@ -1,4 +1,4 @@
-# A Critique on the Causal Validity of Studies on Influencing Factors - R simulation code
+# A Critique on the Causal Validity of Studies on Influencing Factors
 
 This git repository has simulation code that can reproduce the results in the paper. 
 
